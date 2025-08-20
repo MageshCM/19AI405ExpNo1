@@ -104,8 +104,8 @@ agent.print_status()
 ```
 
 ## Output:
+<img width="727" height="164" alt="image" src="https://github.com/user-attachments/assets/37408b30-ec14-429e-a36f-19b12b8d0180" />
 
-![alt text](image.png)
 
 ## Result:
 
